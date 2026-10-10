@@ -1,0 +1,25 @@
+# Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+.location
+.lock
+.markers
+.install.xml
+
+# Java compiled files
+*.class
+
+# Maven
+target/
+
+# TestNG
+test-output/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
