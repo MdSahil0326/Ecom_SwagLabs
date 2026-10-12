@@ -9,10 +9,10 @@
   </run>
   </groups>
     <classes>
-      <class name="CheckoutModule.CheckoutNegative"/>
-      <class name="CheckoutModule.CheckoutPositive"/>
-      <class name="ProductModule.Product"/>
-      <class name="AddtoCart_Module.Addtocart"/>
+      <class name="ecom.swaglabs.Checkout.CheckoutNegative"/>
+      <class name="ecom.swaglabs.Checkout.CheckoutPositive"/>
+      <class name="ecom.swaglabs.Product.Product"/>
+      <class name="ecom.swaglabs.AddtoCart.Addtocart"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
