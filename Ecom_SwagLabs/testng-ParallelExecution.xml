@@ -5,30 +5,30 @@
   <test name="ChromeTest">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="CheckoutModule.CheckoutNegative"/>
-      <class name="CheckoutModule.CheckoutPositive"/>
-      <class name="ProductModule.Product"/>
-      <class name="AddtoCart_Module.Addtocart"/>
+      <class name="ecom.swaglabs.Checkout.CheckoutNegative"/>
+      <class name="ecom.swaglabs.Checkout.CheckoutPositive"/>
+      <class name="ecom.swaglabs.Product.Product"/>
+      <class name="ecom.swaglabs.AddtoCart.AddtoCart"/>
     </classes>
   </test>
 
   <test name="FirefoxTest">
     <parameter name="browser" value="firefox"/>
     <classes>
-      <class name="CheckoutModule.CheckoutNegative"/>
-      <class name="CheckoutModule.CheckoutPositive"/>
-      <class name="ProductModule.Product"/>
-      <class name="AddtoCart_Module.Addtocart"/>
+      <class name="ecom.swaglabs.Checkout.CheckoutNegative"/>
+      <class name="ecom.swaglabs.Checkout.CheckoutPositive"/>
+      <class name="ecom.swaglabs.Product.Product"/>
+      <class name="ecom.swaglabs.AddtoCart.AddtoCart"/>
     </classes>
   </test>
 
   <test name="EdgeTest">
     <parameter name="browser" value="edge"/>
     <classes>
-      <class name="CheckoutModule.CheckoutNegative"/>
-      <class name="CheckoutModule.CheckoutPositive"/>
-      <class name="ProductModule.Product"/>
-      <class name="AddtoCart_Module.Addtocart"/>
+      <class name="ecom.swaglabs.Checkout.CheckoutNegative"/>
+      <class name="ecom.swaglabs.Checkout.CheckoutPositive"/>
+      <class name="ecom.swaglabs.Product.Product"/>
+      <class name="ecom.swaglabs.AddtoCart.AddtoCart"/>
     </classes>
   </test>
 
