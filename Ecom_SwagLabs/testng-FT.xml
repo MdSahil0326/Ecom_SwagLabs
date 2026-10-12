@@ -12,7 +12,7 @@
       <class name="ecom.swaglabs.Checkout.CheckoutNegative"/>
       <class name="ecom.swaglabs.Checkout.CheckoutPositive"/>
       <class name="ecom.swaglabs.Product.Product"/>
-      <class name="ecom.swaglabs.AddtoCart.Addtocart"/>
+      <class name="ecom.swaglabs.AddtoCart.AddtoCart"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
